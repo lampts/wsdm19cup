@@ -153,7 +153,7 @@ sh make_solution_single_gpu.sh
 
 ```
 
-#### Multiple GPU environment
+#### Multiple GPU environment(recommended)
 
 **Bert encoding 768 dimension**
 
@@ -251,3 +251,10 @@ Finally please submit the final_score.csv in **sub** folder to reproduce this so
 ![Final Submission](images/reproduce_score_screenshot.png)
 
 (For further information or inqueries, please contact me, Lam P laampt@gmail.com)
+
+### References
+
+The code is incorporated from Google Bert (big thank to Google AI team), some features inherited from Kaggle Quora Question Pair Matching
+
+1. https://github.com/google-research/bert#pre-trained-models
+2. https://www.kaggle.com/c/quora-question-pairs
