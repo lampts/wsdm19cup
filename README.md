@@ -246,7 +246,7 @@ python make_ensembling.py
 
 ```
 
-Finnaly please submit the final_score.csv in **sub** folder to reproduce this solution (1st place, private/public score ~ 0.88287/0.88199)
+Finally please submit the final_score.csv in **sub** folder to reproduce this solution (1st place, private/public score ~ 0.88287/0.88199)
 
 ![Final Submission](images/reproduce_score_screenshot.png)
 
