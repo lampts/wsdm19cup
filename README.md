@@ -252,9 +252,19 @@ Finally please submit the final_score.csv in **sub** folder to reproduce this so
 
 (For further information or inqueries, please contact me, Lam P laampt@gmail.com)
 
-### References
+### Citations and References
 
 The code is incorporated from Google Bert (big thank to Google AI team), some features inherited from Kaggle Quora Question Pair Matching
 
 1. https://github.com/google-research/bert#pre-trained-models
 2. https://www.kaggle.com/c/quora-question-pairs
+
+```
+@article{devlin2018bert,
+  title={BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding},
+  author={Devlin, Jacob and Chang, Ming-Wei and Lee, Kenton and Toutanova, Kristina},
+  journal={arXiv preprint arXiv:1810.04805},
+  year={2018}
+}
+
+```
