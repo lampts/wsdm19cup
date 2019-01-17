@@ -4,6 +4,8 @@ This repository contains source code for 1st place submission at the WSDM cup 20
 
 http://www.wsdm-conference.org/2019/wsdm-cup-2019.php
 
+![Solution overview](images/solution_diagram_v3.png)
+
 ### Problem
 
 ByteDance is a China-based global Internet technology company. Their goal is to build a global content platform that enables people to enjoy various content in different forms, with an emphasis on informing, entertaining, and inspiring people across language, culture, and geography. One of the challenges ByteDance faces is to combat different types of fake news, here referring to all forms of false, inaccurate, or misleading information. As a result, ByteDance has created a large database of fake news articles, and any new article must go through a test for content truthfulness before being published, based on matching between the new article and the articles in the database. Articles identified as containing fake news are then withdrawn after human verification of their status. The accuracy and efficiency of the process, therefore, are crucial in regard to making the platform safe, reliable, and healthy. ByteDance invites researchers and students in the community to take part in the following task. Given the title of a fake news article A and the title of a coming news article B, participants are asked to classify whether B may contain fake news.
