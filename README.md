@@ -1,6 +1,9 @@
+![](https://img.shields.io/github/repo-size/lampts/wsdm19cup)
+![](https://img.shields.io/github/license/lampts/wsdm19cup?style=plastic)
+
 # WSDM Cup 2019: ByteDance - Fake News Classification
 
-This repository contains source code for 1st place submission at the WSDM cup 2019, task 1.
+This repository contains source code for `1st place` submission at the `WSDM cup 2019`, task 1.
 
 http://www.wsdm-conference.org/2019/wsdm-cup-2019.php
 
